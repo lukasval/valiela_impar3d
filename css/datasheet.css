@@ -1,0 +1,38 @@
+#botoneraHeader{
+    justify-content: space-around;
+    display: flex;
+    padding: 1%;
+}
+
+#pedidoPersonalizado{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    margin-top: 3%;
+}
+
+#productosDestacados{
+    margin-top: 50px;
+}
+
+#imagen1{
+    width: 100%;
+}
+
+#tiposDeImpresion{
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+}
+
+#textoImagenPedidos{
+text-align: center;
+margin-top: 20%;
+}
+
+#formularioContacto{
+    margin-top: 2%;
+}
